@@ -49,8 +49,8 @@ THEN
 if (n5 <= min)
 set min = n5
 
-Write "Average =" write avg
-Write "Maximum =" write max
-Write "Minimum =" write min
+Write "Average of the 5 numbers is =" write avg
+Write "Maximum value of the 5 numbers is =" write max
+Write "Minimum value of the 5 numbers is =" write min
 
 -- END --
