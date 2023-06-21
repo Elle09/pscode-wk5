@@ -5,7 +5,7 @@
 // Exercise 2: Check if a Number is Even or Odd
 
 nx = input number
-TRUE if nx/2 && remainder == 0 THEN print = "even" 
+if TRUE nx/2 && remainder == 0 THEN print = "even" 
 if FALSE print = "odd"
 
 // Exercise 3: 
